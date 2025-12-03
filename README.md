@@ -64,24 +64,11 @@ MediNotes is a collaborative platform designed specifically for **Medicaps Unive
 </tr>
 </table>
 
-## 🎨 Screenshots
 
-<div align="center">
-
-### 🏠 Home Page
-<img src="https://raw.githubusercontent.com/taizunnahar/medinotes/main/public/screenshot-home.png" alt="Home Page" width="700"/>
-
-### 📚 Notes Browser
-<img src="https://raw.githubusercontent.com/taizunnahar/medinotes/main/public/screenshot-notes.png" alt="Notes Browser" width="700"/>
-
-### 🏆 Leaderboard
-<img src="https://raw.githubusercontent.com/taizunnahar/medinotes/main/public/screenshot-leaderboard.png" alt="Leaderboard" width="700"/>
-
-</div>
 
 ## 🚀 Quick Start
 
-1. **Visit** [medinotes.vercel.app](https://medinotes.vercel.app)
+1. **Visit** [medinotes](https://medinotes.live)
 2. **Sign in** with your Google account
 3. **Browse** notes by program, branch, and year
 4. **Upload** your own materials to help others
@@ -93,11 +80,8 @@ MediNotes is a collaborative platform designed specifically for **Medicaps Unive
 
 | Platform | Status | Link |
 |----------|--------|------|
-| 🌐 Web | ✅ Live | [medinotes.vercel.app](https://medinotes.vercel.app) |
-| 💻 Desktop (Windows) | ✅ Available | [Download](https://github.com/taizunnahar/medinotes-releases/releases) |
-| 💻 Desktop (macOS) | ✅ Available | [Download](https://github.com/taizunnahar/medinotes-releases/releases) |
-| 💻 Desktop (Linux) | ✅ Available | [Download](https://github.com/taizunnahar/medinotes-releases/releases) |
-| 📱 Mobile App | 🔜 Coming Soon | - |
+| 🌐 Web | ✅ Live | [medinotes.vercel.app](https://medinotes.live) |
+| 💻 Desktop (macOS) | ✅ Available | [Download](https://github.com/t4zn/MediNotes/releases) |
 
 </div>
 
